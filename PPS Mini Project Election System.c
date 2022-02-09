@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int can1vote=0, can2vote=0, can3vote=0, can4vote=0, can5vote=0; nota=0;
+int can1vote=0, can2vote=0, can3vote=0, can4vote=0, can5vote=0, nota=0;
 
 #define candidate1 "Narendra Modi"
 #define candidate2 "Donald Trump"
